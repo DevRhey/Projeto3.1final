@@ -10,7 +10,7 @@ $(document).ready(function () {
     messages: {
       nome: "Campo obrigatório",
       email: "Campo obrigatório",
-      cpf: "Campo obrigatório",
+      mensagem: "Campo obrigatório",
     },
     submitHandler: function (form) {
       alert("Menssagem enviada");
